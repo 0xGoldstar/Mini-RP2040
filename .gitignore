@@ -1,0 +1,3 @@
+# Ignore KiCad related files
+fp-info-cache
+MiniRP2040.kicad_prl
